@@ -6,7 +6,7 @@ function Content() {
 
     return (
       <View style={styles.todoWrapper}>
-        <Text style={styles.sectionTitle}>Counterımsı</Text>
+        <Text style={styles.sectionTitle}>Sayaç</Text>
 
         <View style={styles.items}>
           
